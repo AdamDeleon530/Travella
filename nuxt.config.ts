@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
   compatibilityDate: "2024-04-03",
   devtools: { enabled: true },
-  modules: ["@nuxtjs/tailwindcss", "@nuxt/icon", "@nuxtjs/seo", "@vueuse/nuxt"],
+  modules: ["@nuxt/icon", "@nuxtjs/seo", "@vueuse/nuxt", "@nuxt/ui"],
   runtimeConfig: {
     public: {
       openAIKey: process.env.OPEN_AI_KEY,
@@ -10,5 +10,4 @@ export default defineNuxtConfig({
       googleApiKey: process.env.GOOGLE_API_KEY
     },
   },
-  plugins: ["~/plugins/vue-tailwind-datepicker.js"],
 });
