@@ -1,0 +1,99 @@
+{
+  "status": true,
+  "message": "Success",
+  "timestamp": 1727992922516,
+  "data": [
+    {
+      "lookbackServlet": null,
+      "autobroadened": "false",
+      "title": "Destinations",
+      "type": "AIRPORT",
+      "document_id": null,
+      "url": "/Flights-g34515-Orlando_Florida-Cheap_Discount_Airfares.html",
+      "children": [
+        {
+          "lookbackServlet": "Airport",
+          "autobroadened": "false",
+          "title": "Destinations",
+          "type": "AIRPORT",
+          "document_id": null,
+          "url": "/Flights?geo=7917629",
+          "scope": "global",
+          "name": "Orlando, FL - Orlando International Airport (MCO)",
+          "data_type": "FLIGHTS_TO",
+          "details": {
+            "placetype": 10038,
+            "parent_name": "Orlando Intl Airport",
+            "address": "1 Jeff Fuqua Boulevard",
+            "grandparent_name": "Orlando",
+            "grandparent_id": 34515,
+            "parent_id": 34515,
+            "grandparent_place_type": 10015,
+            "highlighted_name": "Orlando, FL - Orlando International Airport (MCO)",
+            "name": "Orlando, FL - Orlando International Airport (MCO)",
+            "parent_place_type": 10038,
+            "parent_ids": [7917629, 34515, 1591089, 28930, 191, 19, 1],
+            "geo_name": "Orlando"
+          },
+          "airportCode": "MCO",
+          "shortName": "Orlando (MCO)",
+          "value": 7917629,
+          "coords": "28.417149,-81.306854",
+          "isChild": true
+        },
+        {
+          "lookbackServlet": "Airport",
+          "autobroadened": "false",
+          "title": "Destinations",
+          "type": "AIRPORT",
+          "document_id": null,
+          "url": "/Flights?geo=10140929",
+          "lastChild": true,
+          "scope": "global",
+          "name": "Orlando, FL - Sanford (SFB)",
+          "data_type": "FLIGHTS_TO",
+          "details": {
+            "placetype": 10038,
+            "parent_name": "Orlando Sanford International Airport",
+            "address": "1200 Red Cleveland Blvd",
+            "grandparent_name": "Orlando",
+            "grandparent_id": 34515,
+            "parent_id": 34515,
+            "grandparent_place_type": 10015,
+            "highlighted_name": "Orlando, FL - Sanford (SFB)",
+            "name": "Orlando, FL - Sanford (SFB)",
+            "parent_place_type": 10038,
+            "parent_ids": [10140929, 34515, 1591089, 28930, 191, 19, 1],
+            "geo_name": "Orlando"
+          },
+          "airportCode": "SFB",
+          "shortName": "Orlando (SFB)",
+          "value": 10140929,
+          "coords": "28.8,-81.26667",
+          "isChild": true
+        }
+      ],
+      "scope": "global",
+      "name": "Orlando, FL - All Airports (ORL)",
+      "data_type": "FLIGHTS_TO",
+      "details": {
+        "placetype": 10015,
+        "parent_name": "Florida",
+        "grandparent_name": "United States",
+        "grandparent_id": 191,
+        "parent_id": 28930,
+        "grandparent_place_type": 10001,
+        "rac_enabled": false,
+        "highlighted_name": "Orlando, FL - All Airports (ORL)",
+        "name": "Orlando, FL - All Airports (ORL)",
+        "parent_place_type": 10003,
+        "parent_ids": [1591089, 28930, 191, 19, 1],
+        "geo_name": "Florida"
+      },
+      "airportCode": "ORL",
+      "shortName": "Orlando (ORL)",
+      "value": 34515,
+      "coords": "28.531824,-81.3973"
+    }
+  ]
+}

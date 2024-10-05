@@ -5,6 +5,7 @@
         v-model="formData.departureLocation"
         type="text"
         placeholder="Enter departure location"
+        @blur="searchAirports"
         required
       />
     </UFormGroup>
@@ -68,7 +69,8 @@
 
 <script setup>
 import { sub, format, isSameDay } from "date-fns";
-const emit = defineEmits(["update:modelValue", "invalid"]);
+
+const emit = defineEmits(["update:modelValue", "invalid", "showCards"]);
 
 const selected = ref({ start: sub(new Date(), { days: 0 }), end: new Date() });
 
@@ -113,6 +115,8 @@ watch(formData, (val) => {
     emit("invalid", true);
   }
 });
+
+
 
 watchEffect(() => {
   formData.datesSelected = selected.value;

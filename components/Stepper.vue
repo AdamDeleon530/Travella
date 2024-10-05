@@ -18,6 +18,7 @@
           @update:modelValue="(v) => updateForm(v)"
           @invalid="(v) => (disableButton = v)"
           @personalDetails="(v) => saveDetails(v)"
+          @showCards="(v) => emit('showCards')"
         ></component>
         <template #footer>
           <div class="flex justify-end">
@@ -39,7 +40,9 @@
 </template>
 
 <script setup>
-const emit = defineEmits(["submit"]);
+const emit = defineEmits(["submit", "showCards"]);
+import { useAirportStore } from "~/stores/airports";
+const store = useAirportStore();
 const activeKey = ref(0);
 const items = [
   {
@@ -68,8 +71,14 @@ const items = [
 const form = ref({});
 const disableButton = ref(true);
 
-const next = () => {
+const next = async () => {
   if (activeKey.value < items.length - 1) {
+    if (activeKey.value + 1 === 1) {
+      await store.fetchAirports([
+        form.value.departureLocation,
+        form.value.destination,
+      ]); // Fetch airports based on departure location
+    }
     activeKey.value++;
   } else {
     submit();

@@ -2,7 +2,13 @@
 export default defineNuxtConfig({
   compatibilityDate: "2024-04-03",
   devtools: { enabled: true },
-  modules: ["@nuxt/icon", "@nuxtjs/seo", "@vueuse/nuxt", "@nuxt/ui"],
+  modules: [
+    "@nuxt/icon",
+    "@nuxtjs/seo",
+    "@vueuse/nuxt",
+    "@nuxt/ui",
+    "@pinia/nuxt",
+  ],
   runtimeConfig: {
     public: {
       openAIKey: process.env.OPEN_AI_KEY,

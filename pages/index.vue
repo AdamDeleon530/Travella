@@ -1,12 +1,28 @@
 <template>
   <UContainer class="h-screen flex flex-col items-center justify-center">
     <Stepper @submit="(v) => submitTravelDetails(v)"></Stepper>
-    <pre wrap>{{ travelItineraryObject }}</pre>
+    <div v-if="airportStore.loading">Loading airports...</div>
+    <div v-else>
+      <h2>Airports</h2>
+      <Airports
+        v-for="item in airportStore.airports"
+        :key="item.airportCode"
+        :item="item"
+      />
+      <!-- <MiniMap
+        v-if="airportStore.airports.length > 0"
+        :locations="airportStore.airports"
+      /> -->
+    </div>
   </UContainer>
 </template>
 
 <script setup>
 import MapView from "~/components/map.vue";
+import Airports from "~/components/Airports.vue";
+
+import { useAirportStore } from "~/stores/airports";
+const airportStore = useAirportStore();
 
 // response
 const travelItineraryObject = ref({});

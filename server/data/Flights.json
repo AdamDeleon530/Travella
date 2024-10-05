@@ -1,0 +1,1114 @@
+{
+  "status": true,
+  "message": "Success",
+  "timestamp": 1727993203163,
+  "data": {
+    "session": {
+      "searchHash": "cf11974e3d9d1fb5eda327f011c666cd",
+      "pageLoadUid": "a206d523-f489-4fc0-a909-d73694cd31d9",
+      "searchId": "179c404b-99c2-42d5-b24c-b3e12fcbe05b.593",
+      "filterSettings": {
+        "aa": "",
+        "tt": "",
+        "a": "",
+        "d": "",
+        "ns": "1",
+        "cos": "0",
+        "al": "",
+        "fq": "",
+        "ft": "",
+        "sid": "",
+        "oc": "",
+        "plp": "",
+        "mc": "",
+        "da": "",
+        "pRange": "-1,-1",
+        "ca": ""
+      }
+    },
+    "complete": false,
+    "numOfFilters": 169,
+    "totalNumResults": 185,
+    "flights": [
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "MCO",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "JFK",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-12-23T09:20:00-05:00",
+                "arrivalDateTime": "2024-12-23T11:55:00-05:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "DL",
+                "operatingCarrierCode": "DL",
+                "equipmentId": "321",
+                "amenities": [],
+                "flightNumber": 2702,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 1524.6399,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                }
+              }
+            ],
+            "layovers": []
+          },
+          {
+            "legs": [
+              {
+                "originStationCode": "JFK",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "MCO",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2025-01-03T12:00:00-05:00",
+                "arrivalDateTime": "2025-01-03T14:57:00-05:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "DL",
+                "operatingCarrierCode": "DL",
+                "equipmentId": "321",
+                "amenities": [],
+                "flightNumber": 2090,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 1524.6399,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Delta|1|157",
+            "providerId": "Delta",
+            "commerceName": "DeltaFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 0,
+            "totalPricePerPassenger": 0,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=cf11974e3d9d1fb5eda327f011c666cd&provider=Delta|1|157&area=FLTCenterColumn|0|1|ItinList|3|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=0"
+          }
+        ],
+        "itineraryTag": { "tag": "Shortest", "type": "SHORTEST" }
+      },
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "MCO",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "LGA",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-12-23T10:45:00-05:00",
+                "arrivalDateTime": "2024-12-23T13:22:00-05:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "DL",
+                "operatingCarrierCode": "DL",
+                "equipmentId": "321",
+                "amenities": [],
+                "flightNumber": 2694,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 1533.5205,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                }
+              }
+            ],
+            "layovers": []
+          },
+          {
+            "legs": [
+              {
+                "originStationCode": "JFK",
+                "isDifferentOriginStation": true,
+                "destinationStationCode": "MCO",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2025-01-03T12:00:00-05:00",
+                "arrivalDateTime": "2025-01-03T14:57:00-05:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "DL",
+                "operatingCarrierCode": "DL",
+                "equipmentId": "321",
+                "amenities": [],
+                "flightNumber": 2090,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 1524.6399,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Delta|1|153",
+            "providerId": "Delta",
+            "commerceName": "DeltaFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 0,
+            "totalPricePerPassenger": 0,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=cf11974e3d9d1fb5eda327f011c666cd&provider=Delta|1|153&area=FLTCenterColumn|0|1|ItinList|4|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=0"
+          }
+        ]
+      },
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "MCO",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "LGA",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-12-23T08:00:00-05:00",
+                "arrivalDateTime": "2024-12-23T10:38:00-05:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "DL",
+                "operatingCarrierCode": "DL",
+                "equipmentId": "321",
+                "amenities": [],
+                "flightNumber": 2730,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 1533.5205,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                }
+              }
+            ],
+            "layovers": []
+          },
+          {
+            "legs": [
+              {
+                "originStationCode": "JFK",
+                "isDifferentOriginStation": true,
+                "destinationStationCode": "MCO",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2025-01-03T12:00:00-05:00",
+                "arrivalDateTime": "2025-01-03T14:57:00-05:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "DL",
+                "operatingCarrierCode": "DL",
+                "equipmentId": "321",
+                "amenities": [],
+                "flightNumber": 2090,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 1524.6399,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Delta|1|124",
+            "providerId": "Delta",
+            "commerceName": "DeltaFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 0,
+            "totalPricePerPassenger": 0,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=cf11974e3d9d1fb5eda327f011c666cd&provider=Delta|1|124&area=FLTCenterColumn|0|1|ItinList|2|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=0"
+          }
+        ]
+      },
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "MCO",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "JFK",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-12-23T09:20:00-05:00",
+                "arrivalDateTime": "2024-12-23T11:55:00-05:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "DL",
+                "operatingCarrierCode": "DL",
+                "equipmentId": "321",
+                "amenities": [],
+                "flightNumber": 2702,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 1524.6399,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                }
+              }
+            ],
+            "layovers": []
+          },
+          {
+            "legs": [
+              {
+                "originStationCode": "LGA",
+                "isDifferentOriginStation": true,
+                "destinationStationCode": "MCO",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2025-01-03T13:45:00-05:00",
+                "arrivalDateTime": "2025-01-03T16:45:00-05:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "DL",
+                "operatingCarrierCode": "DL",
+                "equipmentId": "321",
+                "amenities": [],
+                "flightNumber": 2239,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 1533.5205,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Delta|1|66",
+            "providerId": "Delta",
+            "commerceName": "DeltaFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 0,
+            "totalPricePerPassenger": 0,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=cf11974e3d9d1fb5eda327f011c666cd&provider=Delta|1|66&area=FLTCenterColumn|0|1|ItinList|5|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=0"
+          }
+        ]
+      },
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "MCO",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "LGA",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-12-23T19:59:00-05:00",
+                "arrivalDateTime": "2024-12-23T22:37:00-05:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "DL",
+                "operatingCarrierCode": "DL",
+                "equipmentId": "321",
+                "amenities": [],
+                "flightNumber": 2520,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 1533.5205,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                }
+              }
+            ],
+            "layovers": []
+          },
+          {
+            "legs": [
+              {
+                "originStationCode": "JFK",
+                "isDifferentOriginStation": true,
+                "destinationStationCode": "MCO",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2025-01-03T12:00:00-05:00",
+                "arrivalDateTime": "2025-01-03T14:57:00-05:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "DL",
+                "operatingCarrierCode": "DL",
+                "equipmentId": "321",
+                "amenities": [],
+                "flightNumber": 2090,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 1524.6399,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Delta|1|35",
+            "providerId": "Delta",
+            "commerceName": "DeltaFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 0,
+            "totalPricePerPassenger": 0,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=cf11974e3d9d1fb5eda327f011c666cd&provider=Delta|1|35&area=FLTCenterColumn|0|1|ItinList|6|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=0"
+          }
+        ]
+      },
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "MCO",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "LGA",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-12-23T06:05:00-05:00",
+                "arrivalDateTime": "2024-12-23T08:44:00-05:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "DL",
+                "operatingCarrierCode": "DL",
+                "equipmentId": "321",
+                "amenities": [],
+                "flightNumber": 1429,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 1533.5205,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                }
+              }
+            ],
+            "layovers": []
+          },
+          {
+            "legs": [
+              {
+                "originStationCode": "JFK",
+                "isDifferentOriginStation": true,
+                "destinationStationCode": "MCO",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2025-01-03T12:00:00-05:00",
+                "arrivalDateTime": "2025-01-03T14:57:00-05:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "DL",
+                "operatingCarrierCode": "DL",
+                "equipmentId": "321",
+                "amenities": [],
+                "flightNumber": 2090,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 1524.6399,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Delta|1|32",
+            "providerId": "Delta",
+            "commerceName": "DeltaFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 0,
+            "totalPricePerPassenger": 0,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=cf11974e3d9d1fb5eda327f011c666cd&provider=Delta|1|32&area=FLTCenterColumn|0|1|ItinList|7|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=0"
+          }
+        ]
+      },
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "MCO",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "JFK",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-12-23T06:10:00-05:00",
+                "arrivalDateTime": "2024-12-23T08:49:00-05:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "DL",
+                "operatingCarrierCode": "DL",
+                "equipmentId": "321",
+                "amenities": [],
+                "flightNumber": 2693,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 1524.6399,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                }
+              }
+            ],
+            "layovers": []
+          },
+          {
+            "legs": [
+              {
+                "originStationCode": "JFK",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "MCO",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2025-01-03T12:00:00-05:00",
+                "arrivalDateTime": "2025-01-03T14:57:00-05:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "DL",
+                "operatingCarrierCode": "DL",
+                "equipmentId": "321",
+                "amenities": [],
+                "flightNumber": 2090,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 1524.6399,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Delta|1|76",
+            "providerId": "Delta",
+            "commerceName": "DeltaFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 0,
+            "totalPricePerPassenger": 0,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=cf11974e3d9d1fb5eda327f011c666cd&provider=Delta|1|76&area=FLTCenterColumn|0|1|ItinList|9|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=0"
+          }
+        ]
+      },
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "MCO",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "JFK",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-12-23T09:20:00-05:00",
+                "arrivalDateTime": "2024-12-23T11:55:00-05:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "DL",
+                "operatingCarrierCode": "DL",
+                "equipmentId": "321",
+                "amenities": [],
+                "flightNumber": 2702,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 1524.6399,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                }
+              }
+            ],
+            "layovers": []
+          },
+          {
+            "legs": [
+              {
+                "originStationCode": "LGA",
+                "isDifferentOriginStation": true,
+                "destinationStationCode": "MCO",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2025-01-03T17:50:00-05:00",
+                "arrivalDateTime": "2025-01-03T20:51:00-05:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "DL",
+                "operatingCarrierCode": "DL",
+                "equipmentId": "321",
+                "amenities": [],
+                "flightNumber": 2561,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 1533.5205,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Delta|1|63",
+            "providerId": "Delta",
+            "commerceName": "DeltaFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 0,
+            "totalPricePerPassenger": 0,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=cf11974e3d9d1fb5eda327f011c666cd&provider=Delta|1|63&area=FLTCenterColumn|0|1|ItinList|10|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=0"
+          }
+        ]
+      },
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "MCO",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "JFK",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-12-23T09:20:00-05:00",
+                "arrivalDateTime": "2024-12-23T11:55:00-05:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "DL",
+                "operatingCarrierCode": "DL",
+                "equipmentId": "321",
+                "amenities": [],
+                "flightNumber": 2702,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 1524.6399,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                }
+              }
+            ],
+            "layovers": []
+          },
+          {
+            "legs": [
+              {
+                "originStationCode": "JFK",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "MCO",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2025-01-03T15:40:00-05:00",
+                "arrivalDateTime": "2025-01-03T18:41:00-05:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "DL",
+                "operatingCarrierCode": "DL",
+                "equipmentId": "321",
+                "amenities": [],
+                "flightNumber": 1685,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 1524.6399,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Delta|1|61",
+            "providerId": "Delta",
+            "commerceName": "DeltaFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 0,
+            "totalPricePerPassenger": 0,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=cf11974e3d9d1fb5eda327f011c666cd&provider=Delta|1|61&area=FLTCenterColumn|0|1|ItinList|11|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=0"
+          }
+        ]
+      },
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "MCO",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "JFK",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-12-23T09:20:00-05:00",
+                "arrivalDateTime": "2024-12-23T11:55:00-05:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "DL",
+                "operatingCarrierCode": "DL",
+                "equipmentId": "321",
+                "amenities": [],
+                "flightNumber": 2702,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 1524.6399,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                }
+              }
+            ],
+            "layovers": []
+          },
+          {
+            "legs": [
+              {
+                "originStationCode": "LGA",
+                "isDifferentOriginStation": true,
+                "destinationStationCode": "MCO",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2025-01-03T19:49:00-05:00",
+                "arrivalDateTime": "2025-01-03T22:50:00-05:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "DL",
+                "operatingCarrierCode": "DL",
+                "equipmentId": "321",
+                "amenities": [],
+                "flightNumber": 2540,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 1533.5205,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Delta|1|149",
+            "providerId": "Delta",
+            "commerceName": "DeltaFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 0,
+            "totalPricePerPassenger": 0,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=cf11974e3d9d1fb5eda327f011c666cd&provider=Delta|1|149&area=FLTCenterColumn|0|1|ItinList|12|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=0"
+          }
+        ]
+      },
+      {
+        "segments": [
+          {
+            "legs": [
+              {
+                "originStationCode": "MCO",
+                "isDifferentOriginStation": false,
+                "destinationStationCode": "LGA",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2024-12-23T13:12:00-05:00",
+                "arrivalDateTime": "2024-12-23T15:51:00-05:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "DL",
+                "operatingCarrierCode": "DL",
+                "equipmentId": "321",
+                "amenities": [],
+                "flightNumber": 2503,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 1533.5205,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                }
+              }
+            ],
+            "layovers": []
+          },
+          {
+            "legs": [
+              {
+                "originStationCode": "JFK",
+                "isDifferentOriginStation": true,
+                "destinationStationCode": "MCO",
+                "isDifferentDestinationStation": false,
+                "departureDateTime": "2025-01-03T12:00:00-05:00",
+                "arrivalDateTime": "2025-01-03T14:57:00-05:00",
+                "classOfService": "ECONOMY",
+                "marketingCarrierCode": "DL",
+                "operatingCarrierCode": "DL",
+                "equipmentId": "321",
+                "amenities": [],
+                "flightNumber": 2090,
+                "seatGuruEquipmentId": 0,
+                "seatGuruAirlineUrl": "",
+                "numStops": 0,
+                "distanceInKM": 1524.6399,
+                "isInternational": false,
+                "selfTransfer": false,
+                "operatingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                },
+                "marketingCarrier": {
+                  "locationId": 8729060,
+                  "code": "DL",
+                  "logoUrl": "https://static.tacdn.com/img2/flights/airlines/logos/100x100/api_default.png",
+                  "displayName": "Delta"
+                }
+              }
+            ],
+            "layovers": []
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "purchaseLinkId": "Delta|1|141",
+            "providerId": "Delta",
+            "commerceName": "DeltaFlightsMeta",
+            "currency": "USD",
+            "originalCurrency": "USD",
+            "seatAvailability": 0,
+            "taxesAndFees": 0,
+            "taxesAndFeesPerPassenger": 0,
+            "totalPrice": 0,
+            "totalPricePerPassenger": 0,
+            "fareBasisCodes": [],
+            "containedPurchaseLinks": [],
+            "partnerData": {},
+            "isPaid": false,
+            "fareAttributesList": [],
+            "url": "https://www.tripadvisor.com/CheapFlightsPartnerHandoff?searchHash=cf11974e3d9d1fb5eda327f011c666cd&provider=Delta|1|141&area=FLTCenterColumn|0|1|ItinList|13|Meta_ItineraryPrice&resultsServlet=CheapFlightsSearchResults&handoffPlatform=desktop&impressionId=&totalPricePerPassenger=0"
+          }
+        ]
+      }
+    ]
+  }
+}
